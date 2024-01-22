@@ -1,2 +1,7 @@
+Praktikum GIT
 1. Praktikum membuat branch, melakukan commit, push, pull, merge, conflict resolve
+
+Praktikum Dart
 2. Praktikum menggunakan list, set, map, looping, percabangan, dan functional programming
+
+Dikumpulkan 1 pekan
